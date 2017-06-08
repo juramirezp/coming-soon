@@ -30,7 +30,7 @@ body
 .backgroundImage body 
 {
     /* Full background image */
-    background: url('../images/fondo2.jpg') no-repeat center center fixed; 
+    background: url('../images/bg1.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
